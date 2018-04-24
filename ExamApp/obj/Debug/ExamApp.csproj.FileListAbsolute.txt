@@ -1,0 +1,10 @@
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\bin\Debug\ExamApp.exe.config
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\bin\Debug\ExamApp.exe
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\bin\Debug\ExamApp.pdb
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\bin\Debug\EntityFramework.dll
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\bin\Debug\EntityFramework.xml
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\obj\Debug\ExamApp.csprojResolveAssemblyReference.cache
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\obj\Debug\ExamApp.exe
+c:\users\майзельск\documents\visual studio 2017\Projects\ExamApp\ExamApp\obj\Debug\ExamApp.pdb
